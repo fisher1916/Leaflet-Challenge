@@ -17,3 +17,14 @@ The program is written using javascript Leaflet and D3 libraries, and Mapbox is 
 [Leaflet-Step-2](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2) provides an interactive map with controls for earthquake magnitude and depth, and tetonics plates in an overlay. It also allows for 3 different mapping topographies in the base layer. 
 * [Leaflet-Step-2/index.html](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-2/index.html) provides the javascript and main html to view the output. 
 * [Leaflet-Step-2/static/js/logic.js](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-2/static/js/logic.js) is the main code file to run the application. It calls the API for both USGS and Mapbox, creates the legend, sets tooltips, and configures color scheme based on magnitude size.
+* [Leaflet-Step-2/static/data/tetonicPlates.json](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-2/static/data/tetonicPlates.json) is the data file for the tetonic plates. 
+* [Leaflet-Step-2/static/css](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2/static/css) creates the styling for the webpage.
+
+## Screenshots
+
+
+
+
+
+## Contributions
+The data to map the tetonic plates was provided by [https://github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json)
