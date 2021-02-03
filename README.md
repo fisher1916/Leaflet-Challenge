@@ -21,6 +21,7 @@ The program is written using javascript Leaflet and D3 libraries, and Mapbox is 
 * [Leaflet-Step-2/static/css](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2/static/css) creates the styling for the webpage.
 
 ## Screenshots
+*Basic Map
 
 
 
