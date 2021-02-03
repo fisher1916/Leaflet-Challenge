@@ -5,3 +5,13 @@ worldwide. Data is collected from [United States Geological Survey](http://earth
 
 The program is written using javascript Leaflet library, and Mapbox is utilized for mapping and location via an API call.
 
+## Launch
+
+#### Simple Map
+[Leaflet-Step-1](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-1) provides a basic map for magnitude size visualization. 
+* [Leaflet-Step-1/index.html](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-1/index.html) provides the javascript and main html to view the output. 
+* [Leaflet-Step-1/static/js/logic.js](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-1/static/js/logic.js) is the main code file to run the application. It calls the API for both USGS and Mapbox, and creates the legend.
+* [Leaflet-Step-1/static/css/style.css](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-1/static/css/style.css) creates the styling for the webpage.
+
+#### More Complex Map
+[Leaflet-Step-2](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2) provides an interactive map with controls for earthquake magnitude and depth, and tetonics plates in an overlay. It also allows for 3 different mapping topographies in the base layer. 
