@@ -20,12 +20,5 @@ The program is written using javascript Leaflet and D3 libraries, and Mapbox is 
 * [Leaflet-Step-2/static/data/tetonicPlates.json](https://github.com/fisher1916/Leaflet-Challenge/blob/main/Leaflet-Step-2/static/data/tetonicPlates.json) is the data file for the tetonic plates. 
 * [Leaflet-Step-2/static/css](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2/static/css) creates the styling for the webpage.
 
-## Screenshots
-*Basic Map
-
-
-
-
-
 ## Contributions
 The data to map the tetonic plates was provided by [https://github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json)
