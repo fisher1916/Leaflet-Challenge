@@ -108,7 +108,7 @@ d3.json(link).then(function (data) {
     // Only one base layer can be shown at a time
     var baseMaps = {
       Satellite: satellite,
-      Light: light,
+      Grayscale: light,
       Dark: dark
     };
 
