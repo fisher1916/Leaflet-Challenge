@@ -21,9 +21,12 @@ The program is written using javascript Leaflet and D3 libraries, and Mapbox is 
 * [Leaflet-Step-2/static/css](https://github.com/fisher1916/Leaflet-Challenge/tree/main/Leaflet-Step-2/static/css) creates the styling for the webpage.
 
 ## Screenshots
-
-### Earthquake Magnitude
-
+###Earthquake Magnitude
+![](Images/earthquakeMagnitude.PNG)
+### Grayscale Earthquake Magnitude and Depth
+![](Images/Greyscale.PNG) - Displays world map with tetonic plates, and earthquake magnitude and depth.
+### Satellite Earthquake Magnitude and Depth
+![](Images/satEarthquake.PNG) - Displays satellite view of world map with tetonic plates, and earthquake magnitude and depth.
 
 ## Contributions
 The data to map the tetonic plates was provided by [https://github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json)
